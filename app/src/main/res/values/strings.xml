@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Siraa</string>
+    <string name="logo_name">Only</string>
+    <string name="slogan_name">La parole d\Allah accessible a tous</string>
+    <string name="powered_by">Powered By Arielna Diamond</string>
+
+
+    <!-- Strings for Dashboard Screen -->
+
+    <!--Titles -->
+    <string name="first_slide_title">Ecouter le Coran Autrement</string>
+    <string name="second_slide_title">Pré-télécharger</string>
+
+    <!--Descriptions -->
+    <string name="first_slide_desc">Aw Bismillah dans l\application malienne d\écoute du Coran avec narration en bambara</string>
+    <string name="second_slide_desc">Tous vos audios en une fois,partout où vous voulez , quand vous voulez.</string>
+
+    <!--Buttons -->
+    <string name="skip_btn">Ignorer</string>
+    <string name="next_btn">Suivant</string>
+    <string name="lets_get_started">C\est parti, An ga ta</string>
+
+    <!--Strings for UserXUI -->
+
+    <!--Titles and Descriptions -->
+    <string name="view_all">View All</string>
+    <string name="search_text">Chercher Une Sourate...</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="title">sourate</string>
+    <string name="home">HOME</string>
+
+    <!--Strings for apropos-->
+    <string name="hadith">Il a été rapporté qu\'Abou Hurairah a dit:
+    "Le Messager d'Allah a dit: 'Apprenez le Coran, récitez-le et allez vous coucher, car la ressemblance du Coran et de celui qui l'apprend et agit en conséquence est celle d'un sac rempli de musc, qui  répand son parfum partout. Et la ressemblance de celui qui l'apprend puis se couche avec elle dans son cœur est celle d'un sac ligoté dont aucun parfum ne sort.
+    </string>
+    <string name="hadith2">
+    حدثنا عمرو بن عبد الله الأودي, حدثنا أبو أسامة, عن عبد الحميد بن جعفر, عن المقبري, عن عطاء, مولى أبي أحمد عن أبي هريرة, قال قال رسول الله صلى الله عليه وسلم « تعلموا القرآن واقرءوه وارقدوا فإن مثل القرآن ومن تعلمه فقام به كمثل جراب محشو مسكا يفوح ريحه كل مكان ومثل من تعلمه فرقد وهو في جوفه كمثل جراب أوكي على مسك ".
+    Qualité: Hasan (Darussalam)
+    Référence anglaise: Vol. 1, livre 1, Hadith 217</string>
+
+    <string name="word">Cette appliction a ete crée avec le concours et la passion d\'un groupe d\'amies unies par l\'amour du Coran et qui espèrent contribuer à la propagation du message de notre bien-aimé prophète صلى الله عليه وسلم
+    (salallahou aleyhi wa salam)dans toutes les communautés,plus précisement la classe malienne non alphabétisée dans la science de la religion. Notre aspiration in sha Allah est de vivre selon ce Hadith: </string>
+
+    <string name="end">Puisse Allah nous benir avec la connaissance et nous mettre parmis les héritiers des prophètes.Amin.
+    Wa Aleykoum Salam</string>
+
+    <string name="salam">السٌَلامُ عَلَيْكُمْ وَ رَحْمَةُ اللهِ وَ بَرَكاتُهْ</string>
+
+    <string name="contact">Question ?  Suggestions? Contribution ? Nous sommes à votre écoute ! Contactez-nous à partir des e-mail suivants: shinorahanazuki@gmail.com </string>
+
+    <string name="zero"> 0:00 </string>
+    <string name="fatihaend"> 1:38 </string>
+
+    <string name="cd_repeat">Repeat one or all</string>
+    <string name="cd_previous">Skip backwards</string>
+    <string name="cd_play">Play and pause</string>
+    <string name="cd_next">Skip forwards</string>
+
+</resources>

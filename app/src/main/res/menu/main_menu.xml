@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <group
+       android:checkableBehavior="single">
+       <item
+           android:id="@+id/nav_home"
+           android:title="Menu Principal"
+           android:icon="@drawable/ic_home"/>
+
+       <item
+           android:id="@+id/About"
+           android:title="A Propos de Nous"
+           android:icon="@drawable/ic_baseline_people_24"/>
+
+       <item
+           android:id="@+id/Help"
+           android:title="Nous Contacter"
+           android:icon="@drawable/contact_support"/>
+
+
+   </group>
+
+    <item android:title="Partager">
+        <group android:checkableBehavior="none">
+            <item
+                android:id="@+id/shar"
+                android:title="Partager"
+                android:icon="@drawable/ic_share"/>
+
+            <item
+                android:id="@+id/rate"
+                android:title="Notez-Nous"
+                android:icon="@drawable/ic_baseline_rate_review_24"/>
+        </group>
+    </item>
+</menu>
